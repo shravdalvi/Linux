@@ -1,0 +1,10 @@
+What are shell?
+
+The shell is basically a program that takes your commands from the keyboard and sends them to the operating system to perform.
+The shell program bash (Bourne Again shell), 
+almost all Linux distributions will default to the bash shell. 
+There are other shells available such as ksh, zsh, tsch.
+
+Echo: The echo command just prints out the text arguments to the display.
+
+"$ echo Hello World"

@@ -1,0 +1,8 @@
+Let’s learn how to make some files. A very simple way is to use the touch command. Touch allows you to the create new empty files.
+
+$ touch mysuperduperfile
+
+s.Dalvi@LT0221484 MINGW64 ~/Desktop/shrav
+$ touch myfile
+
+and boom new file has been created!

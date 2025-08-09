@@ -1,0 +1,59 @@
+What is cd?
+
+Change directory
+
+<open cmd>
+
+C:\Users\s.dalvi>
+
+C:\Users\s.dalvi>cd desktop
+
+C:\Users\s.dalvi\Desktop>cd shrav
+
+C:\Users\s.dalvi\Desktop\shrav>
+
+That's how it works see.
+
+Linux based is similar to cmd ig.
+we use $ in Linux honey.
+
+$ cd /home/pete/Pictures> $ cd Hawaii
+
+There now we are in the Hawaii file 
+
+" . " (current directory). This is the directory you are currently in.
+" .. " (parent directory). Takes you to the directory above your current.
+" ~ " (home directory). This directory defaults to your “home directory”. Such as /home/pete.
+" - " (previous directory). This will take you to the previous directory you were just at.
+And how to write it?
+
+$ cd .
+
+$ cd ..
+
+$ cd ~
+
+$ cd -
+
+
+C:\Users\s.dalvi>cd desktop
+
+C:\Users\s.dalvi\Desktop>cd shrav
+
+C:\Users\s.dalvi\Desktop\shrav>cd..
+
+C:\Users\s.dalvi\Desktop>cd.
+
+C:\Users\s.dalvi\Desktop>
+
+C:\Users\s.dalvi\Desktop>cd ~
+The system cannot find the path specified.
+
+C:\Users\s.dalvi\Desktop>cd -
+The system cannot find the path specified.
+
+Nandkishor.Dalvi@LT0221484 MINGW64 ~/Desktop
+$ cd shrav
+
+Nandkishor.Dalvi@LT0221484 MINGW64 ~/Desktop/shrav
+$
